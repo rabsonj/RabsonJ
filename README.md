@@ -1,54 +1,87 @@
-<h1 align="center">Hi 👋, I'm Rabson</h1>
-
-<h3 align="center">I'm a full-stack developer  with an eye for UI/UX</h3>
-
+<!-- Banner Animation -->
 <p align="center">
- <img src="/resources/banner.jpg" alt="Rabson J Phiri banner image"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:315d5b,100:375d51&height=200&section=header&text=Rabson%20Phiri&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Software%20Engineer&descAlignY=65&animation=fadeIn" alt="Rabson Phiri Banner"/>
 </p>
 
----
+<div align="center">
 
-![Twitter Follow](https://img.shields.io/twitter/follow/rabsonjphiri)  ![GitHub followers](https://img.shields.io/github/followers/RabsonJ?style=social)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=375d51&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Turning+curiosity+into+code...;Building+solutions+that+matter;Let's+create+impact+together!" alt="Typing SVG" />
 
-
-- 🌱 I’m currently learning **Node.js**
-
-- 🥅 2021 Goals: 
-   - Contribute more to **Open Source**
-   - Learn **React.js, React Native and Python**
-   - Deepen my knowledge of **Node.js & PHP**
-
-- 📝 I regularly write articles on [https://hashnode.com/@RabsonJ](https://hashnode.com/@RabsonJ)
-
-- ⚡ Fun fact: **I love Cats**
+</div>
 
 ---
 
-<h3 align="left">🧰 ToolBox</h3>
+## 👋 Who am I?
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Node.js Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/>
+Hey, I’m **Rabson**, a passionate full stack software engineer blending the art of logic and curiosity to build vibrant, meaningful software.  
+What started as a fascination with “computer brains” grew into a journey of crafting solutions that make life (and work!) a bit better for everyone.
 
----
-
-📘 Latest Blog Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Making a simple Tic-Tac-Toe game in JavaScript](https://rabsonj.hashnode.dev/making-a-simple-tic-tac-toe-game-in-javascript)
-<!-- BLOG-POST-LIST:END -->
-
-▶️ [...more blog articles](https://hashnode.com/@RabsonJ)
+- 🧑‍💻 **Code is my playground:** I build, break, and rebuild with JavaScript, TypeScript, Python, Nuxt.js, React, and more!
+- 🌍 **Based in Morocco, collaborating globally**
+- 🚀 **Driven by impact:** From startups to open source, I help teams ship smarter, faster, and with a smile.
+- 👨‍🏫 **Mentor & Community Builder:** Proud Google Africa Developer Scholarship mentor.
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabsonj&show_icons=true&locale=en&layout=compact" alt="rabsonj" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabsonj&show_icons=true&locale=en" alt="rabsonj" /></p>
+**Programming Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-315d5b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-315d5b?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-315d5b?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3/SCSS](https://img.shields.io/badge/CSS3%2FSCSS-315d5b?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/Python-315d5b?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks, Libraries & APIs:**  
+![Vue.js](https://img.shields.io/badge/Vue.js-375d51?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-375d51?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-375d51?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-375d51?style=for-the-badge&logo=react&logoColor=61dafb)
+![React Native](https://img.shields.io/badge/React_Native-375d51?style=for-the-badge&logo=react&logoColor=61dafb)
+![GraphQL](https://img.shields.io/badge/GraphQL-375d51?style=for-the-badge&logo=graphql&logoColor=E10098)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-375d51?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Cloud, CI/CD & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-315d5b?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-315d5b?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-315d5b?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Version Control](https://img.shields.io/badge/Version%20Control-315d5b?style=for-the-badge&logo=git&logoColor=F05032)
+
+**Logging, Monitoring & Metrics:**  
+![Sentry](https://img.shields.io/badge/Sentry-375d51?style=for-the-badge&logo=sentry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-375d51?style=for-the-badge&logo=grafana&logoColor=F46800)
+![Airflow](https://img.shields.io/badge/Airflow-375d51?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rabson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rabson" height="30" width="40" /></a>
-<a href="https://dev.to/rabsonj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rabsonj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rabsonjphiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rabsonjphiri" height="30" width="40" /></a>
-</p>
+## 🌟 Featured Projects
+
+[![teachscribe](https://img.shields.io/badge/Punzisa-teachscribe-315d5b?style=for-the-badge&logo=github)](https://github.com/Punzisa/teachscribe)
+
+> **@Punzisa/teachscribe:**  
+> Making teaching and learning accessible to everyone, everywhere.  
+> _Where code meets classroom!_
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🏅 Mentored the next generation of developers (Google Africa Scholarship) in 2021
+- 💻 Made my mark in open source at Hacktoberfest
+- 🥇 Wrote my first line of code at 16—and never stopped
+
+---
+
+## 😺 Fun side of me
+
+- 🐈 Cat whisperer
+- ⚽️ Foosball lover
+- 🥏 Frisbee fanatic
+- 🎮 Blur racing game devotee
+- 🏓 Ping-pong enthusiast
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabsonjphiri/)
