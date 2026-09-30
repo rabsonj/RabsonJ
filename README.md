@@ -23,6 +23,6 @@
 ---
 
 ### A few thoughts
-- Greate software isn't measured by its complexity, but by how well it enables people and organisations to do meaningful work.
+- Great software isn't measured by its complexity, but by how well it enables people and organisations to do meaningful work.
 - The most rewarding engineering problems rarely begin with code - they begin with understanding people, processes, and the systems that connect them.
 - How good of a product we build largely depends on how well we understand the industry we're building for.
